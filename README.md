@@ -1,4 +1,4 @@
-# primeiro_app
+# Gerador de palavras
 
 A new Flutter project.
 
